@@ -1,4 +1,4 @@
-# Project Management Project
+# Project Management Tool
 
 **Task Management Project** is a web-based task management system created using HTML5, CSS, JavaScript, and Bootstrap 5.2.0. This responsive website allows users to efficiently manage their tasks, store data in the browser's local storage, and provides a user-friendly interface for task management.
 
